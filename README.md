@@ -43,3 +43,11 @@ Each of these can be classified as:
 For example, if a user is listening to music and finds a band that catches their interest, they might say something like: "I want to hear more of them". As a developer, you can include the name of the band in the context with the request, so that the agent can use it in other intents.
 
 [Fulfillment](https://dialogflow.com/docs/fulfillment): Fulfillment is a webhook that allows you to pass information from a matched intent into a web service and get a result from it.
+
+_**Allow Fulfillment to store help ticket data**_
+
+Now you'll enable Fulfillment so the help ticket information can be submitted to a database, which in this case is Google Cloud Datastore.
+
+Click on **Fulfillment** in the left panel and switch the **Inline Editor** toggle to "Enabled".
+
+
