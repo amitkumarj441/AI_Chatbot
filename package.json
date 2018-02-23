@@ -1,0 +1,14 @@
+{
+  "name": "dialogflowFirebaseFulfillment",
+  "description": "Default fulfillment for a dialogflow agents",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache Version 2.0",
+  "author": "Google Inc.",
+  "engines": {
+    "node": "~6.0"
+  },
+  "scripts": {
+    "start": 
+  
+}
